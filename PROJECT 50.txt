@@ -1,0 +1,52 @@
+GAMES-
+
+1) Ping Pong game
+ >Variables: var name
+ >createSprite: createSprites
+ >Scale: scale=value
+ >Velocity: velocity.x or velocity.y
+ >Position: position.x or position.y
+
+2) Falling Balls
+ >Stiffness
+ >Creating a ground
+
+3) T-rex game
+ >Animation: variable.addAnimation
+ >Adding Images: var.loadImage
+ >creating Obstacles: obstacles()
+ >Creating score
+ >Adding Sounds: playSound()
+
+4) Pirate Invasion
+ >Adding background: backgroundImg
+ >Moving the cannon: keyDown()
+ >Adding Sounds: playSound()
+ >Animation: variable.addAnimation
+ >Throwing the cannonballs
+ >Learned about class
+ >Constraint: constraint()
+ >Objects: var.objects
+ >Collision of the boats with the tower: var collision=Matter.SAT.collides()
+ >Adding functionality in the physics engine with the help of Matter.js library
+ 
+
+5)Multiplayer Car Racing
+ >Connecting Database from Firebase
+ >Adding playerCount,value
+ >Created two cars
+ >Creating Scoreboards
+ >Creating reset button
+ >Adding a mark to identify the player's car
+ >Adding obstacles: obstacles()
+ >Adding playState and endState in keyPressed function
+ >learned about 3 classes: Game.js,Form.js,Player.js
+ >Learned about .on,.ref,data.val,.set functions
+ >Constructor: It will be responcible to add features to the object
+ >Display function: diplay()
+ >Overlap function
+ >Function draw()
+   
+
+
+ 
